@@ -1,4 +1,4 @@
-# Project 1: PCI-DSS Compliant E-Commerce Platform
+# PCI-DSS Compliant E-Commerce Platform
 
 ## Business Context
 
